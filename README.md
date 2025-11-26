@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Prajjwal Sahu
 ======================================================================================================================================
 
-![](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)
+![](https://i.pinimg.com/originals/6c/37/80/6c3780f1e49f1ec89a55b578a123dacc.gif)
 
 B.Tech CSE @ NIE Mysore
 -----------------------
