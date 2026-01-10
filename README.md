@@ -1,12 +1,5 @@
-<div align="center">
 
-<h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" /> My name is <strong>Prajjwal Sahu</strong></h1>
-<h3>B.Tech CSE @ NIE Mysore</h3>
-
-<img src="https://i.pinimg.com/originals/6c/37/80/6c3780f1e49f1ec89a55b578a123dacc.gif" alt="Coding GIF" width="400" />
-
-</div>
-
+<img src="https://www.canva.com/design/DAG-BcYYNVQ/BEhP0dvWKm34UgTdeyxYmA/watch?utm_content=DAG-BcYYNVQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0eaa26639c" alt="Coding GIF" width="400" />
 ---
 
 I'm a B.Tech CSE student at NIE Mysore, passionate about building efficient and scalable applications. My interests lie in software development, data structures & algorithms, web development, and performance optimization. I enjoy exploring how technology can solve real-life problems, and I’m always eager to learn and improve my craft.
