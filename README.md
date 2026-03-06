@@ -1,15 +1,17 @@
-
-<p align="center">
+<!-- <p align="center">
   <img src="assets/coding.gif" alt="Coding GIF" width="600" />
+</p> -->
+<p align="center">
+  <img src="game.gif" alt="Space Shooter Contributions" />
 </p>
 
 I'm a B.Tech CSE student at NIE Mysore, passionate about building efficient and scalable applications. My interests lie in software development, data structures & algorithms, web development, and performance optimization. I enjoy exploring how technology can solve real-life problems, and I’m always eager to learn and improve my craft.
 
-* 🌍  I'm based in Banglore, India
-* ✉️  You can contact me at [prajjwal2051@gmail.com](mailto:prajjwal2051@gmail.com)
-* 🧠  I'm currently learning Advanced DSA, React, and Backend concepts
-* 👥  I'm looking to collaborate on Innovative projects in AI, Web Development, and Open Source
-* 💬  Ask me about When I'm not coding, I like exploring geopolitics and tech innovations.
+- 🌍 I'm based in Banglore, India
+- ✉️ You can contact me at [prajjwal2051@gmail.com](mailto:prajjwal2051@gmail.com)
+- 🧠 I'm currently learning Advanced DSA, React, and Backend concepts
+- 👥 I'm looking to collaborate on Innovative projects in AI, Web Development, and Open Source
+- 💬 Ask me about When I'm not coding, I like exploring geopolitics and tech innovations.
 
 ---
 
