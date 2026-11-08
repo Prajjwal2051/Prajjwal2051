@@ -1,3 +1,108 @@
+<div align="center">
+
+<!-- Animated Living Identity Banner -->
+<!---->
+
+<br/>
+
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi!+I'm+prajjwal2051+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=prajjwal2051&label=PLAYER+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
+<img src="https://img.shields.io/github/followers/prajjwal2051?label=ALLIES&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/stars/prajjwal2051?label=LOOT&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
+
+</div>
+
+---
+
+## 🐱 About Me
+
+<div align="center">
+
+<!---->
+
+</div>
+
+
+
+## ⚔️ `> cat inventory.txt` — Skill Tree
+
+<div align="center">
+
+**🧠 Languages**
+
+<img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,r&theme=dark" />
+
+**🌐 Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,flask,django,nodejs,tailwind,bootstrap&theme=dark" />
+
+<em>✏️ The tools you reach for, in a sentence.</em>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+**🗄️ Databases & DevOps**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,linux,docker,vscode&theme=dark" />
+
+**🧩 DSA & Problem Solving**
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 `> ./stats --player=prajjwal2051`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prajjwal2051&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41&ring_color=FF00E5&include_all_commits=true&count_private=true&custom_title=%F0%9F%8E%AE%20PLAYER%20STATS" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prajjwal2051&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00F0FF&langs_count=8&custom_title=%E2%9A%94%EF%B8%8F%20WEAPON%20MASTERY" />
+
+<img src="https://streak-stats.demolab.com?user=prajjwal2051&theme=dark&background=0D1117&border=00FF41&ring=FF00E5&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41" />
+
+</div>
+
+---
+
+## 🏆 `> unlock --achievements`
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=prajjwal2051&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+
+</div>
+
+---
+
+## 📈 `> tail -f /var/log/commits.log`
+
+<div align="center">
+
+<!---->
+
+</div>
+
+---
+
+## 🐍 `> ./snake.exe --eat=contributions`
+
+<div align="center">
+
 <!-- <p align="center">
   <img src="assets/coding.gif" alt="Coding GIF" width="600" />
 </p> -->
@@ -5,35 +110,70 @@
   <img src="game.gif" alt="Space Shooter Contributions" />
 </p>
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Prajjwal Sahu
-
-## Full-Stack Engineer
-
-Exploring AI, backend systems, and why production servers fail at 2 AM
-
-- 🌍 I'm based in Banglore, India
-- 🖥️ See my portfolio at [Portfolio](http://prajjwal2051.vercel.app/)
-- ✉️ You can contact me at [prajjwal2051@gmail.com](mailto:prajjwal2051@gmail.com)
-- 🧠 I'm currently learning Scalable Backend Systems and Devops
+</div>
 
 ---
 
-### Tech Stack
+## 🎯 `> cat current_quests.log`
 
-<p><strong>Languages:</strong> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><code>C</code></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><code>C++</code></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><code>JavaScript</code></a> <a href="https://www.python.org/"><code>Python</code></a> <a href="https://www.typescriptlang.org/"><code>TypeScript</code></a> <a href="https://www.gnu.org/software/bash/"><code>GNU Bash</code></a></p>
+```diff
++ [ACTIVE]    🚀 Building: Data Science & ML Projects
++ [ACTIVE]    📚 Learning: AI/ML, Deep Learning, React
++ [ACTIVE]    💻 Grinding: DSA & Competitive Programming
+! [PENDING]   📊 Goal: Publish research in Data Science
+! [PENDING]   🌐 Shipping: Full-stack data-driven web apps
+- [LOCKED]    👑 Boss Fight: Land a dream role in Data Science / AI
+```
 
-<p><strong>Frontend:</strong> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><code>HTML5</code></a> <a href="https://reactjs.org/"><code>React</code></a> <a href="https://nextjs.org/docs"><code>Next.js</code></a> <a href="https://vuejs.org/"><code>Vue</code></a> <a href="https://www.w3.org/TR/CSS/#css"><code>CSS3</code></a> <a href="https://tailwindcss.com/"><code>Tailwind CSS</code></a> <a href="https://vitejs.dev/"><code>Vite</code></a> <a href="https://ui.shadcn.com/"><code>shadcn/ui</code></a></p>
+<div align="center">
 
-<p><strong>Backend:</strong> <a href="https://nodejs.org/en/"><code>Node.js</code></a> <a href="https://expressjs.com/"><code>Express</code></a> <a href="https://fastapi.tiangolo.com/"><code>FastAPI</code></a></p>
+| 🕹️ Stat | ▰▰▰▰▰▰▰▰▱▱ | Level |
+|:--|:--|:--|
+| 🐍 Python | `████████░░` | **80%** |
+| 📊 Data Science | `███████░░░` | **70%** |
+| 🧠 AI / ML | `██████░░░░` | **60%** |
+| ⚛️ React | `██████░░░░` | **60%** |
+| 🏗️ DSA | `███████░░░` | **70%** |
+| ☕ Caffeine | `██████████` | **MAX** |
 
-<p><strong>Databases:</strong> <a href="https://www.mongodb.com/"><code>MongoDB</code></a> <a href="https://www.mysql.com/"><code>MySQL</code></a> <a href="https://www.postgresql.org/"><code>PostgreSQL</code></a> <a href="https://firebase.google.com/"><code>Firebase</code></a> <a href="https://supabase.io/"><code>Supabase</code></a></p>
+</div>
 
-<p><strong>Tools:</strong> <a href="https://clerk.com/"><code>Clerk</code></a> <a href="https://render.com/"><code>Render</code></a> <a href="https://huggingface.co/"><code>Hugging Face</code></a> <a href="https://www.figma.com/"><code>Figma</code></a> <a href="https://store.arduino.cc/"><code>Arduino</code></a> <a href="https://www.linux.org"><code>Linux</code></a> <a href="https://ubuntu.com/"><code>Ubuntu</code></a> <a href="https://fedoraproject.org/"><code>Fedora</code></a> <a href="https://aws.amazon.com"><code>AWS</code></a> <a href="https://pytorch.org/"><code>PyTorch</code></a> <a href="https://www.docker.com/"><code>Docker</code></a> <a href="https://www.digitalocean.com"><code>DigitalOcean</code></a> <a href="https://code.visualstudio.com/"><code>VS Code</code></a> <a href="https://neovim.io/"><code>Neovim</code></a> <a href="https://www.vim.org/"><code>Vim</code></a> <a href="https://git-scm.com/"><code>Git</code></a></p>
+---
 
-### Socials
+## 🎧 `> now_playing --mode=focus`
 
-<p align="left"> <a href="https://www.github.com/Prajjwal2051" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/prajjwal2051__" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://prajjwalsahuu.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" title="Hashnode" /> </picture> </a> <a href="http://www.medium.com/prajjwal2051" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.linkedin.com/in/prajjwal-sahu-498620221" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/prajjwal4966" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-<a href="https://www.github.com/Prajjwal2051" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Prajjwal2051?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/prajjwal2051__" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/prajjwal2051__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+<div align="center">
+
+<img src="https://img.shields.io/badge/♪_Lo--Fi_/_Synthwave_/_Focus_Beats-0D1117?style=for-the-badge&logo=spotify&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
+
+</div>
+
+---
+
+## 📡 `> ping --connect`
+
+<div align="center">
+
+<a href="https://github.com/prajjwal2051"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
+<a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
+<a href="https://www.instagram.com/not_avi_20/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&color=E4405F" /></a>
+
+<br/><br/>
+
+```bash
+$ echo "There is no spoon. Only data." | lolcat
+$ python3 -c "print('Hello, World! 🧠')"
+$ exit 0   # GAME OVER? Nah — INSERT COIN TO CONTINUE 🪙
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=26&fontColor=00FF41&animation=twinkling&fontAlignY=68" width="100%"/>
+
+</div>
+
+
+
+
+
+
+
