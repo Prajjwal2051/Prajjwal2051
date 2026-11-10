@@ -1,177 +1,62 @@
-<div align="center">
 
-<!-- Animated Living Identity Banner -->
-<!---->
-
-<br/>
-
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi!+I'm+prajjwal2051+%F0%9F%91%8B" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=prajjwal2051&label=PLAYER+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
-<img src="https://img.shields.io/github/followers/prajjwal2051?label=ALLIES&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
-<img src="https://img.shields.io/github/stars/prajjwal2051?label=LOOT&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
-
-</div>
-
----
-
-## 🐱 About Me
-
-<div align="center">
-
-<!---->
-
-</div>
-
-
-
-## ⚔️ `> cat inventory.txt` — Skill Tree
-
-<div align="center">
-
-**🧠 Languages**
-
-<img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,r&theme=dark" />
-
-**🌐 Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,flask,django,nodejs,tailwind,bootstrap&theme=dark" />
-
-<em>✏️ The tools you reach for, in a sentence.</em>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-**🗄️ Databases & DevOps**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,linux,docker,vscode&theme=dark" />
-
-**🧩 DSA & Problem Solving**
-
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-
-</div>
-
----
-
-## 📊 `> ./stats --player=prajjwal2051`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prajjwal2051&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41&ring_color=FF00E5&include_all_commits=true&count_private=true&custom_title=%F0%9F%8E%AE%20PLAYER%20STATS" />
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prajjwal2051&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00F0FF&langs_count=8&custom_title=%E2%9A%94%EF%B8%8F%20WEAPON%20MASTERY" />
-
-<img src="https://streak-stats.demolab.com?user=prajjwal2051&theme=dark&background=0D1117&border=00FF41&ring=FF00E5&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41" />
-
-</div>
-
----
-
-## 🏆 `> unlock --achievements`
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=prajjwal2051&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
-
-</div>
-
----
-
-## 📈 `> tail -f /var/log/commits.log`
-
-<div align="center">
-
-<!---->
-
-</div>
-
----
-
-## 🐍 `> ./snake.exe --eat=contributions`
-
-<div align="center">
-
-<!-- <p align="center">
-  <img src="assets/coding.gif" alt="Coding GIF" width="600" />
-</p> -->
 <p align="center">
   <img src="game.gif" alt="Space Shooter Contributions" />
 </p>
 
-</div>
+### `~ $ whoami`
 
----
-
-## 🎯 `> cat current_quests.log`
-
-```diff
-+ [ACTIVE]    🚀 Building: Data Science & ML Projects
-+ [ACTIVE]    📚 Learning: AI/ML, Deep Learning, React
-+ [ACTIVE]    💻 Grinding: DSA & Competitive Programming
-! [PENDING]   📊 Goal: Publish research in Data Science
-! [PENDING]   🌐 Shipping: Full-stack data-driven web apps
-- [LOCKED]    👑 Boss Fight: Land a dream role in Data Science / AI
+```text
+prajjwal sahu — full-stack engineer | react · next.js · node.js · typescript · docker |dsa
+location    banglore, india
+site        portfolio-murex-eight-mdchzqhs4k.vercel.app
 ```
 
-<div align="center">
+### `~ $ ls projects --sort=stars`
 
-| 🕹️ Stat | ▰▰▰▰▰▰▰▰▱▱ | Level |
-|:--|:--|:--|
-| 🐍 Python | `████████░░` | **80%** |
-| 📊 Data Science | `███████░░░` | **70%** |
-| 🧠 AI / ML | `██████░░░░` | **60%** |
-| ⚛️ React | `██████░░░░` | **60%** |
-| 🏗️ DSA | `███████░░░` | **70%** |
-| ☕ Caffeine | `██████████` | **MAX** |
+<table>
+<thead><tr><th align="left">Project</th><th align="left">About</th><th align="right">★</th></tr></thead>
+<tbody>
+<tr><td align="left"><a href="https://github.com/Prajjwal2051/Food-Delivery-Analytics">Food-Delivery-Analytics</a></td><td align="left">A full-stack real-time analytics dashboard for food delivery &amp; rideshare networks — built with Next.js, Express.js, PostgreSQL, and live map visualizations</td><td align="right">0</td></tr>
+<tr><td align="left"><a href="https://github.com/Prajjwal2051/Portfolio">Portfolio</a></td><td align="left">—</td><td align="right">0</td></tr>
+<tr><td align="left"><a href="https://github.com/Prajjwal2051/Chat-Connect">Chat-Connect</a></td><td align="left">—</td><td align="right">0</td></tr>
+<tr><td align="left"><a href="https://github.com/Prajjwal2051/CLIHandbookOWASP">CLIHandbookOWASP</a></td><td align="left">—</td><td align="right">0</td></tr>
+</tbody>
+</table>
 
-</div>
+### `~ $ cat stack.txt`
 
----
-
-## 🎧 `> now_playing --mode=focus`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/♪_Lo--Fi_/_Synthwave_/_Focus_Beats-0D1117?style=for-the-badge&logo=spotify&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
-
-</div>
-
----
-
-## 📡 `> ping --connect`
-
-<div align="center">
-
-<a href="https://github.com/prajjwal2051"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
-<a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
-<a href="https://www.instagram.com/not_avi_20/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&color=E4405F" /></a>
-
-<br/><br/>
-
-```bash
-$ echo "There is no spoon. Only data." | lolcat
-$ python3 -c "print('Hello, World! 🧠')"
-$ exit 0   # GAME OVER? Nah — INSERT COIN TO CONTINUE 🪙
+```text
+qml         ████████████████████  46%
+javascript  ██████████            22%
+typescript  ██████                14%
+shell       ███                    6%
+python      ██                     4%
+html        █                      3%
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=26&fontColor=00FF41&animation=twinkling&fontAlignY=68" width="100%"/>
+### `~ $ ls -t projects | head -5`
 
-</div>
+```text
+2026-11-08  Portfolio
+2026-11-08  CLIHandbookOWASP
+2026-09-28  Food-Delivery-Analytics
+2026-09-28  Chat-Connect
+```
 
+### `~ $ stats`
 
+```text
+repositories   25
+stars          2
+followers      31
+contributions  1,070 (last 12 months)
+```
+
+### `~ $ contact`
+
+<a href="https://github.com/prajjwal2051">GitHub</a> · <a href="https://portfolio-murex-eight-mdchzqhs4k.vercel.app/">Website</a> · <a href="https://x.com/prajjwal2051__">X</a>
+
+<sub>Plain Terminal · every line is real data · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
 
 
 
